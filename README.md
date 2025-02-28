@@ -4,7 +4,7 @@ The Sharpe Ratio and Sortino Ratio are two critical metrics that help evaluate t
 These ratios are widely used in algorithmic trading to measure how much return is generated per unit of risk.<br />
 This document explains the significance of the Sharpe and Sortino Ratios, their differences, and why they matter for traders. Whether you are a retail trader or a professional, integrating these metrics into your strategy can help optimize performance and mitigate unnecessary risks.
 
-
+#
 **Sharpe Ratio: The Risk-Reward Indicator** <br />
 The Sharpe Ratio, developed by Nobel laureate William F. Sharpe, is a widely used measure to determine the return earned per unit of total risk taken. It is calculated as follows:<br />
 
@@ -13,7 +13,7 @@ A higher Sharpe Ratio indicates that a strategy generates more returns for each 
 A Sharpe Ratio > 2 is considered excellent, while 1–2 is good, and < 1 suggests higher risk than reward.<br />
 It helps compare different investment strategies and choose the one with the best risk-adjusted return.<br />
 
-
+#
 **Sortino Ratio: Focusing on Downside Risk**  <br />
 The Sortino Ratio is a refined version of the Sharpe Ratio that considers only the downside deviation (risk of losses) instead of total volatility. It is calculated as:<br />
 
@@ -22,7 +22,7 @@ Better measurement of risk: It focuses on downside risk rather than total volati
 Useful for strategy refinement: A higher Sortino Ratio means the strategy effectively limits downside risk while maintaining strong returns.<br />
 Interpretation: A Sortino Ratio above 2.5 is excellent, while 1–2.5 is decent, and below 1 suggests excessive downside risk.<br />
 
-
+#
 **Sharpe vs. Sortino: Which One to Use?** <br />
 If you want to evaluate overall risk-adjusted performance, use the Sharpe Ratio.<br />
 If you are concerned about downside risk and losses, the Sortino Ratio is more useful.<br />
@@ -33,7 +33,7 @@ Both the Sharpe and Sortino Ratios play a crucial role in making better decision
 The Sharpe Ratio helps compare strategies based on total risk-adjusted return.<br />
 The Sortino Ratio refines risk analysis by focusing only on downside risk.<br />
 
-
+#
 
 
 **How to Calculate Sharpe and Sortino Ratios for Your Trades** <br />
