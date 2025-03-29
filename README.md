@@ -58,3 +58,5 @@ With the mentioned Python code, you can analyze all your trades' Sharpe and Sort
 - The results will help you determine if your trading strategy is risk-efficient or needs improvement.
 
 
+**Python code** <br/>
+For more such codes and projects, check out the GitHub profile [deepakdalal081](https://github.com/Deepakdalal081)
